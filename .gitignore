@@ -169,8 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-#Others
-README.md
-SECURITY.md
-license.md
